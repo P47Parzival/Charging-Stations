@@ -19,6 +19,7 @@ A full-stack application for managing electric vehicle charging stations, built 
 - Leaflet (Maps)
 - Axios (HTTP Client)
 - Vue Toastification
+- Deployed link = https://charging-stations-jade.vercel.app/login
 
 ### Backend
 - Node.js
