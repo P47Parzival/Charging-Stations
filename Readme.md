@@ -159,6 +159,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - dhurvmali999@gmail.com
 
-Project Link: [https://github.com/yourusername/charging-stations](https://github.com/yourusername/charging-stations)
+Project Link: [https://github.com/P47Parzival/Charging-Stations](https://github.com/P47Parzival/Charging-Stations)
